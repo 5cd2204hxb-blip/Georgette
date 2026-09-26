@@ -5,4 +5,3 @@ My personal repository
 # NAME
 # IS
 # GEORGETTE
-# BOOM
